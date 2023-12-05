@@ -1,4 +1,4 @@
-package com.example.apiportsadapters.core;
+package api.translate.app.core;
 
 
 /**
